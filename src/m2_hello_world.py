@@ -18,7 +18,7 @@ print(3607 * 34227)
 
 ###############################################################################
 #
-# Done: 1.
+# done: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
 #
 #   Run this module by right clicking anywhere in this window and selecting
